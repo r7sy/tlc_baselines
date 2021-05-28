@@ -1,5 +1,4 @@
 from . import BaseAgent
-from generator import LaneVehicleGenerator
 
 class SOTLAgent(BaseAgent):
     """
